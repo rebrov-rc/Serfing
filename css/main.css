@@ -364,6 +364,12 @@ body {
   height: 100%;
 }
 
+.dataXY {
+  position: absolute;
+  display: none;
+  background-color: white;
+}
+
 .header-section {
   display: -webkit-box;
   display: -ms-flexbox;
